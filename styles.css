@@ -27,3 +27,13 @@
     background-color: darkslategray;
     color: cornflowerblue;
 }
+
+.conteudo > p{
+    color: #E4005A;
+    font-size: 32px;
+}
+
+.novo-paragrafo :nth-child(3){
+    color: purple;
+    text-decoration: underline;
+}
